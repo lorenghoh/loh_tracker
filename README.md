@@ -1,5 +1,11 @@
-[Cloud-tracker](https://github.com/lorenghoh/cloud-tracker "cloud-tracker")
-==============
+
+# Notes
+
+An improved version of the cloud-tracking algorithm, which will be a general-purpose fluid volume tracking algorithm, is currently being developed. Given the circumstances, though, it does not appear that I will be writing a paper on the algorithm.
+
+If one wants to use this version of the cloud-tracking algorithm, please cite [Oh and Austin (2014)](https://doi.org/10.1175/JAS-D-24-0018.1):
+
+Oh, G., & Austin, P. H. (2024). Direct Entrainment as a Measure of Dilution. *Journal of the Atmospheric Sciences*, 81(10), 1783-1797.
 
 # Updated cloud-tracking algorithm for SAM #
 To run the cloud-tracking algorithm, use 
